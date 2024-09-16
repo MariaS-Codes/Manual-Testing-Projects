@@ -1,0 +1,47 @@
+Software development can indeed be overwhelming due to the vast array of programming languages, frameworks, tools, and processes involved. For developers, the challenge often extends beyond merely writing code. The real difficulty lies in determining the appropriate code to write, managing various edge cases, and accurately predicting user needs.
+
+This is where testing methodologies can help. Within the Agile development methodology, three key approaches focus on writing clear and effective tests; Test-Driven Development (TDD), Behavior-Driven Development (BDD), and Acceptance Test-Driven Development (ATDD).They all share “driven development” as part of their acronym.
+
+In essence, "driven development" is a software development approach where the creation and implementation of code are guided by specific criteria or goals. This means that the development process is directed by certain factors, such as tests, behaviors, or user requirements, to ensure that the software meets these defined criteria effectively.
+
+
+Test-Driven Development (TDD) is a development techniques where the test cases are developed before the developers initiate writing the code.TDD focuses more on the implementation of a feature.The intention of writing the code is to pass the test i.e test cases directs the coding.TDD approach  allows developers to disintegrate huge problems into tiny chunks and concentrate on one aspect at a time.
+
+
+
+Behaviour Driven Development (BDD) is a team methodology that focuses on the system’s behavior. It is more of 'Understanding Requirements'.This approach defines various ways to develop a feature based on its behavior. In most cases, the Given-When-Then approach is used for writing test cases. Let’s take an example for a better understanding:
+
+*Given the user has entered valid login credentials
+*When a user clicks on the login button
+*Then display the successful validation message
+As shown above, the behavior is illustrated in a very simple English language, a shared language. This helps everyone in the team responsible for development to understand the feature behavior.
+
+Acceptance test–driven development (ATDD), as its name suggests, ATDD is related to TDD, or Test-Driven Development, is a collaborative process where developers, testers and business representatives come together to work out requirements, perceive potential pitfalls and reduce the chance of errors before coding begins.Unlike TDD, which is generally thought of as an engineering practice, ATDD is a team effort.
+
+To understand why that’s useful, first think of unit testing. This is a form of testing which, by its nature, is very developer-centric. It helps engineers document their assumptions about their code in executable format. Unit testing solves the problem of “are we building the thing right?”
+However, unit tests don’t solve the problem of “are we building the right thing?” For that, you’d have to resort to acceptance testing, that verifies the workings of the application against a set of acceptance criteria discovered through conversations with a domain expert.
+In a nutshell, acceptance test-driven development solves the problem of the development team implementing features that don’t solve the customer’s needs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
